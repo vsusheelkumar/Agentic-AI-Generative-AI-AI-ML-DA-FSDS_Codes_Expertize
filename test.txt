@@ -1,0 +1,44 @@
+google AI studio Gemini api keys: AIzaSyDAC6ULuLja6sD4PENyU_Jc4JInQLol-vw
+
+
+In difference_update():  Only difference elements will be added.
+
+Then why we need S3 sir? we can directly use s3=s1.difference_update(s2).  In real-time, is there any usecase for s3?
+
+Can you please let us know any real time application/scenario where we would need using this method like s3=s1.difference_update(s2) when we know s3 returns None.
+
+>>> print(f"product of a and b is: {round(a*b,2)}")
+product of a and b is: 209.89
+
+
+* Write a Python pgm which demonstrates the functionality of arithmetic operators.
+* Write a python pgm which will calculate square root of a given number.
+
+* which will calculate a to the power of m (a^m) where a is base and m is power
+* write a python pgm which will calculate (a+b) whole square.  --> 2 logics
+First logic:  (a+b)**2
+Second logic: (a+b) * (a+b)
+Third logic: a*a+2*a*b+b*b
+Fourth logic: 
+
+
+
+Write a python pgm which will calculate a to the power of m / a to the power on n
+Logic1: (a**m)/(a**n)
+Logic2: a to the power of (m-n)
+a**(m-n)
+
+Write a python pgm to convert number of days into years and months.
+
+
+
+
+Sir, can you please go to the notes part where you explained that list obj values store at different locations where as ndarry object values at same location.
+Day-1 https://youtu.be/1skTVdV98SA
+Day-2 https://youtu.be/Cn9KhmSp6hY
+
+
+Sir, in anyway can we restrict developers in using import * in the program or while executing the code? (because it consumes more memory)
+or import * might lead to import some virus pgms into our systems, so how to restrict importing such modules?
+
+when we are running 
